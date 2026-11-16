@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/tcl/Aquaman10Pro/device.mk)
 
 PRODUCT_DEVICE := Aquaman10Pro
-PRODUCT_NAME := omni_Aquaman10Pro
+PRODUCT_NAME := twrp_Aquaman10Pro
 PRODUCT_BRAND := alps
 PRODUCT_MODEL := Aquaman10Pro
 PRODUCT_MANUFACTURER := tcl

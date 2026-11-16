@@ -1,14 +1,7 @@
-#
-# Copyright (C) 2026 The Android Open Source Project
-# Copyright (C) 2026 SebaUbuntu's TWRP device tree generator
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_Aquaman10Pro.mk
+    $(LOCAL_DIR)/twrp_Aquaman10Pro.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_Aquaman10Pro-user \
-    omni_Aquaman10Pro-userdebug \
-    omni_Aquaman10Pro-eng
+    twrp_Aquaman10Pro-user \
+    twrp_Aquaman10Pro-userdebug \
+    twrp_Aquaman10Pro-eng
